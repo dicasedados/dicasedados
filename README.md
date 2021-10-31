@@ -10,7 +10,7 @@
 - 👯 Tem alguma coisa que você gostária de saber sobre a gente? Manda uma [msg][web_site_contato]
 - 🔭 Estamos preparando o nosso primeiro curso: [Excel para aumentar sua produtuvidade e bombar sua carreira][curso_de_excel]!
 
-### Encontre a gente nas mídias socias:
+### Acompanhe a gente nas mídias sociais:
 
 [<img align="left" alt="www.DicaseDados.com.br" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="YouTube: Dicas e Dados | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -20,7 +20,7 @@
 <br />
 
 ### Ferramentas e Linguagens de Programação:
-- Estas são algumas ferramentas e linguagens de programação que usamos no nosso dia a dia e que eventualmente vamos dando dicas [e quem sabe cursos 😏] de como podemos utilizar essas ferramentas para aumentar sua produtividade, trabalhar com dados e bombar a sua carreira!
+- Estas são algumas ferramentas e linguagens de programação que usamos no nosso dia a dia e que eventualmente vamos dando dicas [e quem sabe cursos 😏] de como podemos utilizar essas ferramentas e linguagens para aumentar sua produtividade, trabalhar com dados e bombar a sua carreira!
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
 
